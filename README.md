@@ -1,7 +1,7 @@
 # Predict-Fuel-Efficiency-with-Machine-Leaning
 
 ## Objective
-Develop a machine learning model to prdict the miles per gallon (mpg) of a car for a given car features number of cylinders, engine displacement, 
+Develop a machine learning model to prdict the miles per gallon (mpg) of a car for a given car features such as number of cylinders, engine displacement, 
 power produced by engine, acceleration
 
 ## License
