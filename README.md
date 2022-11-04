@@ -2,7 +2,7 @@
 
 ## Objective
 Develop a machine learning model to prdict the miles per gallon (mpg) of a car for a given car features such as number of cylinders, engine displacement, 
-power produced by engine, acceleration
+power produced by engine, acceleration, weight of car, and model year
 
 ## Content
 `Data` contains data set used to train, validate, and test algorithm
