@@ -1,11 +1,13 @@
 # Predict-Fuel-Efficiency-with-Machine-Leaning
 
 ## Objective
-Develop a machine learning model to prdict the miles per gallon (mpg) of a car for a given car features such as number of cylinders, engine displacement, 
-power produced by engine, acceleration, weight of car, and model year and deploy the model to Amazon Web Services (AWS).
+Develop a machine learning model to predict the miles per gallon (mpg) of a car for given car features such as the number of cylinders, engine displacement, power produced by the engine, acceleration, weight of a car, and model year as well as deploy the model to Amazon Web Services (AWS).
 
 ## Content
-`Data` contains data set used to train, validate, and test algorithm
+* `Data` contains data set used to train, validate, and test algorithm
+* `templates` contains index.html for web page
+* `server` contains model pickle file and server.py developed by using Flask
+* `Fuel_Efficiency_Prediction.ipynb` is a python code for developed model
 
   
 ## Getting started
