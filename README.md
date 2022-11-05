@@ -18,24 +18,5 @@ Develop a machine learning model to predict the miles per gallon (mpg) of a car 
 * Deploy the web application to an Amazon Web Services (AWS) EC2 instance.
 
 
-**Sample Results**:
-
-<pre>
-../validation/user1_armband_1506423438471.csv 
-steps detected by current algorithm : 315 
- from data in current csv files ...  
-	 steps detected by GTD: 335 
-	 steps detected by algorithm 316
-     
-File name : user1_armband_1506423438471.csv 
-steps detected by current algorithm : 315 
- from data in current csv files ... 
-	 steps detected by GTD: 335 
-	 steps detected by algorithm 316
-
-File name : user1_backpocket_1506422470497.csv 
-steps detected by current algorithm : 504
- from data in current csv files ... 
-	 steps detected by GTD: 343
-	 steps detected by algorithm 501
-</pre>
+## Web Application
+![image](https://github.com/Swapnil-Rakshe/Swapnil-Rakshe/blob/main/Web%20application.png)
