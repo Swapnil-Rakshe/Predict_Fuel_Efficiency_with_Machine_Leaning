@@ -1,4 +1,4 @@
-# Predict-Fuel-Efficiency-with-Machine-Leaning
+# Predict Fuel Efficiency with Machine Leaning
 
 ## Objective
 Develop a machine learning model to predict the miles per gallon (mpg) of a car for given car features such as the number of cylinders, engine displacement, power produced by the engine, acceleration, weight of a car, and model year as well as deploy the model to Amazon Web Services (AWS).
