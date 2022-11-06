@@ -12,7 +12,7 @@ Develop a machine learning model to predict the miles per gallon (mpg) of a car 
   
 ## Steps Performed
 
-* Collected the data from Kaggle
+* Collected the data from Kaggle.
 * Performed Exploratory Data Analysis (EDA) to find out outliers and relationships between the variables/features.
 * Performed hyperparameter tuning using GridSearchCV to find the most suitable model with optimal parameters for the given problem.
 * Build a web application using Flask.
